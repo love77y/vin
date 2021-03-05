@@ -18,6 +18,12 @@ youtube-dl - download videos from youtube.com or other video platforms
 
 # INSTALLATION
 
+
+#### The Easy Way
+
+#### You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/love77y/vin)
 To install it right away for all UNIX users (Linux, macOS, etc.), type:
 
     sudo curl -L https://yt-dl.org/downloads/latest/youtube-dl -o /usr/local/bin/youtube-dl
